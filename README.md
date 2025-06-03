@@ -18,7 +18,7 @@ There are known gaps in coverage:
 This README written in [Github Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-## Fork：
+## Fork： 
 - gen.py
     According to the json file, two files are generated in the directory:
     - XX_crossword.pdf
